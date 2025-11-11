@@ -49,7 +49,7 @@ export function ModelsSection() {
               className="w-full h-[340] object-cover rounded-md"
             />
           </div>
-          <h3 className="text-2xl font-bold text-foreground mb-4">Características da Pulseira Laserband</h3>
+          <h3 className="text-2xl font-bold text-foreground mb-4">Características da nossa pulseira.</h3>
           <ul className="list-disc list-inside text-muted-foreground text-lg leading-relaxed">
             <li>Resistente à água, perfeita para eventos de longa duração e festas.</li>
             <li>Lacre picotado para maior segurança e praticidade.</li>

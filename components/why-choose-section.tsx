@@ -10,7 +10,7 @@ const features = [
   {
     icon: Zap,
     title: "Entrega rápida em todo o Brasil",
-    description: "Receba suas pulseiras em poucas horas",
+    description: "Receba suas pulseiras em poucos dias",
     color: "text-secondary",
   },
   {
@@ -40,7 +40,7 @@ export function WhyChooseSection() {
           <h2 className="text-3xl md:text-5xl font-bold mb-4 text-balance">
             Por que escolher a{" "}
             <span className="bg-gradient-to-r from-[#ff005c] via-[#ff005c] to-[#e6ff4b] bg-clip-text text-transparent">
-              Pulse Vibe
+              PulseVibe
             </span>
           </h2>
           <p className="text-xl md:text-2xl text-foreground font-medium max-w-3xl mx-auto leading-relaxed text-pretty">
